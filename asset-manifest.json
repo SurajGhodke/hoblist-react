@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hoblist-react/static/css/main.460b6a2e.chunk.css",
+    "main.js": "/hoblist-react/static/js/main.bb6b3490.chunk.js",
+    "main.js.map": "/hoblist-react/static/js/main.bb6b3490.chunk.js.map",
+    "runtime-main.js": "/hoblist-react/static/js/runtime-main.3b9ab7f9.js",
+    "runtime-main.js.map": "/hoblist-react/static/js/runtime-main.3b9ab7f9.js.map",
+    "static/js/2.40e3b601.chunk.js": "/hoblist-react/static/js/2.40e3b601.chunk.js",
+    "static/js/2.40e3b601.chunk.js.map": "/hoblist-react/static/js/2.40e3b601.chunk.js.map",
+    "static/js/3.c1852bb6.chunk.js": "/hoblist-react/static/js/3.c1852bb6.chunk.js",
+    "static/js/3.c1852bb6.chunk.js.map": "/hoblist-react/static/js/3.c1852bb6.chunk.js.map",
+    "index.html": "/hoblist-react/index.html",
+    "static/css/main.460b6a2e.chunk.css.map": "/hoblist-react/static/css/main.460b6a2e.chunk.css.map",
+    "static/js/2.40e3b601.chunk.js.LICENSE.txt": "/hoblist-react/static/js/2.40e3b601.chunk.js.LICENSE.txt",
+    "static/media/spinner.11d9cde8.gif": "/hoblist-react/static/media/spinner.11d9cde8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b9ab7f9.js",
+    "static/js/2.40e3b601.chunk.js",
+    "static/css/main.460b6a2e.chunk.css",
+    "static/js/main.bb6b3490.chunk.js"
+  ]
+}
